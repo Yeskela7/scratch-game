@@ -1,0 +1,8 @@
+{
+  "matrix" : [ [ "E", "D", "F" ], [ "D", "C", "D" ], [ "B", "D", "F" ] ],
+  "reward" : 300.0,
+  "applied_winning_combinations" : {
+    "D" : [ "same_symbol_3_times", "same_symbol_4_times" ]
+  },
+  "applied_bonus_symbol" : null
+}
